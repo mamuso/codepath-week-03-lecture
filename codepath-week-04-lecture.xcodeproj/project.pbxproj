@@ -14,6 +14,14 @@
 		BB9891C01BC4B52900B80C9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB9891BE1BC4B52900B80C9E /* LaunchScreen.storyboard */; };
 		BB9891CB1BC4B52900B80C9E /* codepath_week_04_lectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891CA1BC4B52900B80C9E /* codepath_week_04_lectureTests.swift */; };
 		BB9891D61BC4B52900B80C9E /* codepath_week_04_lectureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891D51BC4B52900B80C9E /* codepath_week_04_lectureUITests.swift */; };
+		BB9891E41BC4B91600B80C9E /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891E31BC4B91600B80C9E /* TabBarViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891E61BC4BB5F00B80C9E /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891E51BC4BB5F00B80C9E /* GreenViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891E81BC4BB6400B80C9E /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891E71BC4BB6400B80C9E /* BlueViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891EA1BC4BB6800B80C9E /* PinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891E91BC4BB6800B80C9E /* PinkViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891EC1BC4C2BF00B80C9E /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891EB1BC4C2BF00B80C9E /* MenuViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891EE1BC4C2C400B80C9E /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891ED1BC4C2C400B80C9E /* FeedViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891F01BC4C31E00B80C9E /* HamburgerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891EF1BC4C31E00B80C9E /* HamburgerViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		BB9891F21BC4CA5D00B80C9E /* RotationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9891F11BC4CA5D00B80C9E /* RotationViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		BB9891D11BC4B52900B80C9E /* codepath-week-04-lectureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "codepath-week-04-lectureUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB9891D51BC4B52900B80C9E /* codepath_week_04_lectureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_week_04_lectureUITests.swift; sourceTree = "<group>"; };
 		BB9891D71BC4B52900B80C9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB9891E31BC4B91600B80C9E /* TabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		BB9891E51BC4BB5F00B80C9E /* GreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		BB9891E71BC4BB6400B80C9E /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		BB9891E91BC4BB6800B80C9E /* PinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkViewController.swift; sourceTree = "<group>"; };
+		BB9891EB1BC4C2BF00B80C9E /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		BB9891ED1BC4C2C400B80C9E /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		BB9891EF1BC4C31E00B80C9E /* HamburgerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HamburgerViewController.swift; sourceTree = "<group>"; };
+		BB9891F11BC4CA5D00B80C9E /* RotationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +116,14 @@
 				BB9891B51BC4B52900B80C9E /* AppDelegate.swift */,
 				BB9891B71BC4B52900B80C9E /* ViewController.swift */,
 				BB9891B91BC4B52900B80C9E /* Main.storyboard */,
+				BB9891F11BC4CA5D00B80C9E /* RotationViewController.swift */,
+				BB9891EF1BC4C31E00B80C9E /* HamburgerViewController.swift */,
+				BB9891EB1BC4C2BF00B80C9E /* MenuViewController.swift */,
+				BB9891ED1BC4C2C400B80C9E /* FeedViewController.swift */,
+				BB9891E51BC4BB5F00B80C9E /* GreenViewController.swift */,
+				BB9891E71BC4BB6400B80C9E /* BlueViewController.swift */,
+				BB9891E91BC4BB6800B80C9E /* PinkViewController.swift */,
+				BB9891E31BC4B91600B80C9E /* TabBarViewController.swift */,
 				BB9891BC1BC4B52900B80C9E /* Assets.xcassets */,
 				BB9891BE1BC4B52900B80C9E /* LaunchScreen.storyboard */,
 				BB9891C11BC4B52900B80C9E /* Info.plist */,
@@ -258,7 +282,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB9891F01BC4C31E00B80C9E /* HamburgerViewController.swift in Sources */,
+				BB9891EA1BC4BB6800B80C9E /* PinkViewController.swift in Sources */,
+				BB9891E61BC4BB5F00B80C9E /* GreenViewController.swift in Sources */,
 				BB9891B81BC4B52900B80C9E /* ViewController.swift in Sources */,
+				BB9891EC1BC4C2BF00B80C9E /* MenuViewController.swift in Sources */,
+				BB9891E41BC4B91600B80C9E /* TabBarViewController.swift in Sources */,
+				BB9891F21BC4CA5D00B80C9E /* RotationViewController.swift in Sources */,
+				BB9891E81BC4BB6400B80C9E /* BlueViewController.swift in Sources */,
+				BB9891EE1BC4C2C400B80C9E /* FeedViewController.swift in Sources */,
 				BB9891B61BC4B52900B80C9E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
