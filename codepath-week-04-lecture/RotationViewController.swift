@@ -19,7 +19,7 @@ class RotationViewController: UIViewController {
         super.viewDidLoad()
 
         rotation = 0
-        foreshortening = 0
+        foreshortening = 10
     }
 
     override func didReceiveMemoryWarning() {
